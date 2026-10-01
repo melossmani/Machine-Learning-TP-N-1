@@ -1,6 +1,6 @@
 # 🤖 Machine Learning — TP N°1
 
-> **4ème année GI-IADS · 2024/2025**  
+> **4ème année G-AIDT · 2026/2027**  
 > **Enseignant : Mustapha El Ossmani**
 
 ## 📚 Sommaire
@@ -24,9 +24,9 @@
 
 ---
 
-# Machine Learning — TP N°1 (2024/2025)
+# Machine Learning — TP N°1 (2026/2027)
 
-**4ème année GI-IADS**  
+**4ème année G-AIDT**  
 **Enseignant : Mustapha El Ossmani**
 
 ## 🎯 Objectifs du TP
